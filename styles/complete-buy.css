@@ -34,15 +34,11 @@
 .complete-buy-section {
   background: var(--white);
   width: 100%;
-  min-height: 110vh;
-  /* ocupa al menos toda la altura de la pantalla */
+  min-height: 125vh;
   display: flex;
   justify-content: center;
-  /* centra horizontalmente */
   align-items: flex-start;
-  /* arriba, no verticalmente centrado */
   padding: 60px 20px;
-  /* espacio superior e inferior */
   box-sizing: border-box;
 }
 
